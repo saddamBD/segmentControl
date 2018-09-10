@@ -7,6 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
+#import <localFramework.h>
 
 @interface Box:NSObject {
     double length;    // Length of a box
